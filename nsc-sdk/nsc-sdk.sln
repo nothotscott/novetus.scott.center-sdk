@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nsc-sdk", "nsc-sdk\nsc-sdk.csproj", "{A9CFF290-3049-46A2-80B6-A30449C4B20E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9CFF290-3049-46A2-80B6-A30449C4B20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CFF290-3049-46A2-80B6-A30449C4B20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CFF290-3049-46A2-80B6-A30449C4B20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CFF290-3049-46A2-80B6-A30449C4B20E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E0CC4C5-F888-4D95-B337-9EB234EB8D00}
+	EndGlobalSection
+EndGlobal
