@@ -3,3 +3,8 @@
 ################################################################################
 
 /nsc-sdk/.vs/nsc-sdk/v16/Server/sqlite3
+/.vs
+/nsc-sdk/nsc-sdk/obj
+/nsc-sdk/nsc-test/obj/Debug
+/nsc-sdk/nsc-test/bin/Debug
+/nsc-sdk/nsc-test

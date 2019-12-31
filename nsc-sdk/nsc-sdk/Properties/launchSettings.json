@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "nsc-sdk": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Scott\\source\\repos\\ScottMaday\\novetus.scott.center-sdk\\nsc-sdk\\nsc-test\\bin\\Debug\\nsc-test.exe"
+    }
+  }
+}

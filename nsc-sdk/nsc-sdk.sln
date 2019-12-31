@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nsc-sdk", "nsc-sdk\nsc-sdk.csproj", "{A9CFF290-3049-46A2-80B6-A30449C4B20E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nsc-test", "nsc-test\nsc-test.csproj", "{6324603D-C243-4D34-B869-9BAF3D351CE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A9CFF290-3049-46A2-80B6-A30449C4B20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9CFF290-3049-46A2-80B6-A30449C4B20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9CFF290-3049-46A2-80B6-A30449C4B20E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6324603D-C243-4D34-B869-9BAF3D351CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6324603D-C243-4D34-B869-9BAF3D351CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6324603D-C243-4D34-B869-9BAF3D351CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6324603D-C243-4D34-B869-9BAF3D351CE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
